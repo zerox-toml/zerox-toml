@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 🚀 Passionate Blockchain & AI Engineer | Builder of Trust-Centric Systems </h1>
+<h1 align="center">Hi 👋, I'm 🚀 Passionate Blockchain & Software Engineer | Builder of Trust-Centric Systems </h1>
 
 <h3 align="center"> 
 <br><br>Prior Experience in SDK Development, Layer 2 chain solution, Backend Development, Platform Engineering, Data Analysis, Machine Learning, Algo/Quant Trading, Web3 Integration.</h3><br>
