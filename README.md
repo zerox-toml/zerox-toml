@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 🚀 Passionate Blockchain & Software Engineer | Builder of Trust-Centric Systems </h1>
 
 <h3 align="center"> 
-<br><br>Prior Experience in SDK Development, Layer 2 chain solution, Backend Development, Platform Engineering, Data Analysis, Machine Learning, Algo/Quant Trading, Web3 Integration.</h3><br>
+<br><br>Extensive experience in SDK development, Layer 2 blockchain solutions, backend systems, platform engineering, data analysis, machine learning, algorithmic/quantitative trading, and full-stack Web3 integration.</h3><br>
 
 <p align="center"> <a href="https://x.com/MentholMen47387" target="blank"><img src="https://img.shields.io/twitter/follow/MentholMen47387?logo=twitter&style=for-the-badge" alt="Aldino Saputra" /></a> <a href="https://www.linkedin.com/in/aldinosaputra/" target="blank"><img src="https://img.shields.io/badge/-connect on linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MentholMen47387/" alt="connect on linkedin" /></a>
 </p>
