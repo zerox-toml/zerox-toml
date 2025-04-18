@@ -11,7 +11,6 @@ Previously, I've worked on [Ethereum](https://ethereum.org), [Solana](https://so
 
 💬 You might be looking for some links:
 * [Github](https://github.com/zerox-toml)
-* [LinkedIn](https://www.linkedin.com/in/aldinosaputra/)
 * [Twitter](https://twitter.com/MentholMen47387)  
 
 <!--
