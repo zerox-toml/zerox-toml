@@ -11,7 +11,9 @@ Previously, I've worked on [Ethereum](https://ethereum.org), [Solana](https://so
 
 💬 You might be looking for some links:
 * [Github](https://github.com/zerox-toml)
-* [Twitter](https://twitter.com/MentholMen47387)  
+* [Twitter](https://twitter.com/MentholMen47387)
+
+  ![](https://komarev.com/ghpvc/?username=spectrecoder7&color=brightgreen)
 
 <!--
 **rustielin/rustielin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
