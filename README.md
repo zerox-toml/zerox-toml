@@ -1,18 +1,13 @@
-### Hi I'm Aldino Saputra 👋
+### Hi I'm a Blockchain & AI Guru 👋
 
 🔭 I'm a Blockchain Engineer specializing in Subnet, SDK development and Layer 2 Blockchain Solutions.
 - 🌱 I'm currently learning Depin ...
-- 👯 I'm looking to collaborate on Bittensor
+- 👯 I'm looking to collaborate on Bittensor or Solana
 - 🤔 I'm looking for help with  ...
 - 💬 Ask me about Subnet, Mining, DApp architecture, Ethereum & Solana Layer 2 Solutions ...
 - 😄 Pronouns: Family, Passion, Trust, Transparency ...
 - ⚡ Fun fact: Solving issues, Exploreing, ...
 Previously, I've worked on [Ethereum](https://ethereum.org), [Solana](https://solana.com), [Aptos](https://aptoslabs.com), [Stellar](https://stellar.org).
-
-💬 You might be looking for some links:
-* [Github](https://github.com/zerox-toml)
-* [Twitter](https://twitter.com/MentholMen47387)
-
 
 
 <!--
