@@ -8,7 +8,7 @@
 - 😄 Pronouns: Family, Passion, Trust, Transparency ...
 - ⚡ Fun fact: Solving issues, Exploreing, Debugging, ...
   
-Previously, I've worked on [Ethereum](https://ethereum.org), [Solana](https://solana.com), [Aptos](https://aptoslabs.com), [Stellar](https://stellar.org), [TON](https://ton.org).
+Previously, I've worked on [Polkadot](https://polkadot.com/), [Ethereum](https://ethereum.org), [Solana](https://solana.com), [Aptos](https://aptoslabs.com), [Stellar](https://stellar.org), [TON](https://ton.org).
 
 
 <!--
