@@ -1,6 +1,6 @@
 ### Hi I'm a Blockchain & AI Guru 👋
 
-🔭 I'm a Blockchain Engineer specializing in Subnet, SDK development and Layer 2 Blockchain Solutions.
+🔭 I'm a Blockchain & FullStack & DevOps Engineer specializing in Subnet, SDK development and Layer 2 Blockchain Solutions.
 - 🌱 I'm currently learning Depin, Substrate, ...
 - 👯 I'm looking to collaborate on Blockchain Sapce like EVM, Bittensor or Solana, have some mind to develop AI agents.
 - 🤔 I'm looking for help with  TON Ecosystem, Network Engineering...
