@@ -1,12 +1,13 @@
-### Hi, I'm an ML/NLP & Web3 Engineer 👋
+### Hi, I'm an ML/NLP & Voice AI Engineer 👋
 
-🔭 I'm a **Machine Learning, NLP, and Web3 Engineer** specializing in **language models, embeddings, SDK development, and Layer 2 Blockchain Solutions**.  
-- 🌱 Currently exploring **DePIN, Substrate, and advanced NLP architectures**.  
-- 👯 Open to collaborations on **AI + Blockchain projects** (EVM, Solana, Bittensor), and building **AI-powered agents**.  
-- 🤔 Looking for help diving deeper into the **TON ecosystem** and advanced **network engineering** for scalable ML systems.  
-- 💬 Ask me about **LLMs, Subnet design, DApp architecture, Mining, and Ethereum/Solana Layer 2 solutions**.  
+🔭 I'm a **Machine Learning and NLP Engineer** passionate about **Large Language Models (LLMs), Voice AI Agents, and Generative AI applications**.  
+- 🌱 Currently exploring **Robotics**.  
+- 👯 Open to collaborations on **LLM fine-tuning, Voice AI agents, and applied NLP projects**.  
+- 🤔 Looking for help with **scaling ML pipelines and deploying real-time AI systems**.  
+- 💬 Ask me about **LLM training, embeddings, retrieval-augmented generation (RAG), NLP pipelines, and conversational AI**.  
 - 😄 Core values: **Curiosity, Collaboration, Trust, and Transparency**.  
-- ⚡ Fun fact: I love **debugging tricky NLP pipelines** and **optimizing training at scale** — turning bottlenecks into breakthroughs.  
+- ⚡ Fun fact: I love **debugging tricky NLP models**, **experimenting with voice cloning**, and **optimizing training loops**.  
+
   
 Previously, I've worked on [Polkadot](https://polkadot.com/), [Ethereum](https://ethereum.org), [Solana](https://solana.com), [Aptos](https://aptoslabs.com), [Stellar](https://stellar.org), [TON](https://ton.org), ....
 
