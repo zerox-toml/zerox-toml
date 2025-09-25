@@ -1,12 +1,12 @@
-### Hi I'm a Blockchain & AI Guru 👋
+### Hi, I'm an ML/NLP & Web3 Engineer 👋
 
-🔭 I'm a Blockchain & FullStack & DevOps Engineer specializing in Subnet, SDK development and Layer 2 Blockchain Solutions.
-- 🌱 I'm currently learning Depin, Substrate, ...
-- 👯 I'm looking to collaborate on Blockchain Sapce like EVM, Bittensor or Solana, have some mind to develop AI agents.
-- 🤔 I'm looking for help with  TON Ecosystem, Network Engineering...
-- 💬 Ask me about Subnet, Mining, DApp architecture, Ethereum & Solana Layer 2 Solutions ...
-- 😄 Pronouns: Family, Passion, Trust, Transparency ...
-- ⚡ Fun fact: Solving issues, Exploreing, Debugging, ...
+🔭 I'm a **Machine Learning, NLP, and Web3 Engineer** specializing in **language models, embeddings, SDK development, and Layer 2 Blockchain Solutions**.  
+- 🌱 Currently exploring **DePIN, Substrate, and advanced NLP architectures**.  
+- 👯 Open to collaborations on **AI + Blockchain projects** (EVM, Solana, Bittensor), and building **AI-powered agents**.  
+- 🤔 Looking for help diving deeper into the **TON ecosystem** and advanced **network engineering** for scalable ML systems.  
+- 💬 Ask me about **LLMs, Subnet design, DApp architecture, Mining, and Ethereum/Solana Layer 2 solutions**.  
+- 😄 Core values: **Curiosity, Collaboration, Trust, and Transparency**.  
+- ⚡ Fun fact: I love **debugging tricky NLP pipelines** and **optimizing training at scale** — turning bottlenecks into breakthroughs.  
   
 Previously, I've worked on [Polkadot](https://polkadot.com/), [Ethereum](https://ethereum.org), [Solana](https://solana.com), [Aptos](https://aptoslabs.com), [Stellar](https://stellar.org), [TON](https://ton.org), ....
 
