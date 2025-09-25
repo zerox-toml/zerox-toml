@@ -9,10 +9,11 @@
 - ⚡ Fun fact: I love **debugging tricky NLP models**, **experimenting with voice cloning**, and **optimizing training loops**.  
 
   
-Previously, I've worked on [Polkadot](https://polkadot.com/), [Ethereum](https://ethereum.org), [Solana](https://solana.com), [Aptos](https://aptoslabs.com), [Stellar](https://stellar.org), [TON](https://ton.org), ....
+
 
 
 <!--
+Previously, I've worked on [Polkadot](https://polkadot.com/), [Ethereum](https://ethereum.org), [Solana](https://solana.com), [Aptos](https://aptoslabs.com), [Stellar](https://stellar.org), [TON](https://ton.org), ....
 **rustielin/rustielin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
