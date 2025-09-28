@@ -1,17 +1,14 @@
-### Hi, I'm an ML/NLP & Voice AI Engineer 👋
+### Hi, I'm an ML/NLP & Blockchain Engineer 👋
 
-🔭 I'm a **Machine Learning and NLP Engineer** passionate about **Large Language Models (LLMs), Voice AI Agents, and Generative AI applications**.  
-- 🌱 Currently exploring **Robotics**.  
+🔭 I'm a **ML/NLP  Blockchain Engineer** passionate about **LLMs, Voice AI Agents, and Generative AI applications, Subnet, SDK development and Layer 2 Blockchain Solutions**.  
+- 🌱 Currently exploring **Robotics, Sbustrate**.  
 - 👯 Open to collaborations on **LLM fine-tuning, Voice AI agents, and applied NLP projects**.  
 - 🤔 Looking for help with **scaling ML pipelines and deploying real-time AI systems**.  
-- 💬 Ask me about **LLM training, embeddings, retrieval-augmented generation (RAG), NLP pipelines, and conversational AI**.  
+- 💬 Ask me about **LLM training, embeddings, retrieval-augmented generation (RAG), NLP pipelines, and conversational AI, DApp architecture, Ethereum & Solana Layer 2 Solutions**.  
 - 😄 Core values: **Curiosity, Collaboration, Trust, and Transparency**.  
 - ⚡ Fun fact: I love **debugging tricky NLP models**, **experimenting with voice cloning**, and **optimizing training loops**.  
 
-  
-
-
-
+Previously, I've worked on [Polkadot](https://polkadot.com/), [Ethereum](https://ethereum.org), [Solana](https://solana.com), [Aptos](https://aptoslabs.com), [Stellar](https://stellar.org), [TON](https://ton.org), ....
 <!--
 Previously, I've worked on [Polkadot](https://polkadot.com/), [Ethereum](https://ethereum.org), [Solana](https://solana.com), [Aptos](https://aptoslabs.com), [Stellar](https://stellar.org), [TON](https://ton.org), ....
 **rustielin/rustielin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
