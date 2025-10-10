@@ -1,9 +1,9 @@
 ### Hi, I'm an ML/NLP & Blockchain Engineer 👋
 
 🔭 I'm a **ML/NLP  Blockchain Engineer** passionate about **LLMs, Voice AI Agents, and Generative AI applications, Subnet, SDK development and Layer 2 Blockchain Solutions**.  
-- 🌱 Currently exploring **Robotics, Sbustrate**.  
+- 🌱 Currently exploring **Computer Vision, Substrate**.  
 - 👯 Open to collaborations on **LLM fine-tuning, Voice AI agents, and applied NLP projects**.  
-- 🤔 Looking for help with **scaling ML pipelines and deploying real-time AI systems**.  
+- 🤔 Looking for help with **Blockchain or Innovative AI Projects**.  
 - 💬 Ask me about **LLM training, embeddings, retrieval-augmented generation (RAG), NLP pipelines, and conversational AI, DApp architecture, Ethereum & Solana Layer 2 Solutions**.  
 - 😄 Core values: **Curiosity, Collaboration, Trust, and Transparency**.  
 - ⚡ Fun fact: I love **debugging tricky NLP models**, **experimenting with voice cloning**, and **optimizing training loops**.  
