@@ -1,4 +1,4 @@
-### Hi, I'm an ML/NLP & Blockchain Engineer 👋
+### Hi, I'm an FullStack & ML/NLP & Blockchain Engineer 👋
 
 🔭 I'm a **ML/NLP  Blockchain Engineer** passionate about **LLMs, Voice AI Agents, and Generative AI applications, Subnet, SDK development and Layer 2 Blockchain Solutions**.  
 - 🌱 Currently exploring **Computer Vision, Substrate**.  
