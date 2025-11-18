@@ -1,10 +1,10 @@
-### Hi, I'm an FullStack & ML/NLP & Blockchain Engineer 👋
+### Hi, I'm an Blockchain FullStack Engineer & ML/LLM Junior Developer  👋
 
-🔭 I'm a **ML/NLP  Blockchain Engineer** passionate about **LLMs, Voice AI Agents, and Generative AI applications, Subnet, SDK development and Layer 2 Blockchain Solutions**.  
+🔭 I'm a **Blockchain Engineer** passionate about **Subnet, SDK development and Layer 2 Blockchain Solutions, LLMs, Model Training/Fine Tuning, Voice AI Agents, and Generative AI applications**.  
 - 🌱 Currently exploring **Computer Vision, Substrate**.  
 - 👯 Open to collaborations on **LLM fine-tuning, Voice AI agents, and applied NLP projects**.  
 - 🤔 Looking for help with **Blockchain or Innovative AI Projects**.  
-- 💬 Ask me about **LLM training, embeddings, retrieval-augmented generation (RAG), NLP pipelines, and conversational AI, DApp architecture, Ethereum & Solana Layer 2 Solutions**.  
+- 💬 Ask me about **LLM Model training, embeddings, RAG Pipeline, and conversational AI, DApp architecture, Ethereum & Solana Layer 2 Solutions**.  
 - 😄 Core values: **Curiosity, Collaboration, Trust, and Transparency**.  
 - ⚡ Fun fact: I love **debugging tricky NLP models**, **experimenting with voice cloning**, and **optimizing training loops**.  
 
